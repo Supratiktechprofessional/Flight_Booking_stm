@@ -17,8 +17,6 @@ Besides these two primary end-points, there are few other end-points to support 
 5. GET /passengers
 6. GET /passengers/{passenger-id}
 
-To test these end-points, see the API documentation section [here](#markdown-header-api-documentation-and-integration-testing)
-
 ## Technologies used
 
 1. Java (Programming Language)
